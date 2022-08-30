@@ -1,9 +1,7 @@
 package Palindrome;
 import java.util.*;
-import java.nio.charset.*;
-import static java.nio.charset.StandardCharsets.*;
 import java.io.UnsupportedEncodingException;
-import java.util.InputMismatchException;
+
 
 public class Palindromo {
 		
