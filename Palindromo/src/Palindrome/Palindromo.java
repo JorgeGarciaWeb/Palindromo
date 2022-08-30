@@ -1,5 +1,4 @@
 package Palindrome;
-
 import java.util.Scanner;
 
 public class Palindromo {
